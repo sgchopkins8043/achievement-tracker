@@ -1,0 +1,6 @@
+pandas==1.4.1
+pytest==7.0.1
+coverage==6.3.2
+pylint==2.12.2
+Sphinx==4.4.0
+
