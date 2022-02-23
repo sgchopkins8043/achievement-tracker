@@ -1,3 +1,4 @@
+![alt text](https://github.com/sgchopkins8043/achievement-tracker/blob/main/readme_header.png?raw=true)
 ## Achievement Tracker
 ***
 ### Created by: S G C Hopkins
