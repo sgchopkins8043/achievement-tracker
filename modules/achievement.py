@@ -1,12 +1,14 @@
 """
 class & methods for achievement-tracker app
 """
+from datetime import datetime as dt
+
 class Achievement:
     """
     This is an achievement class
     """
     def __init__(self):
-        pass
+        self.timestamp = dt.now()
 
 
     def category(self):
