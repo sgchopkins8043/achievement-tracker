@@ -1,9 +1,9 @@
 """
 pytests for main app
 """
-from modules import Achievement
 from datetime import datetime as dt
-import pytest
+from modules import Achievement
+
 
 def test_achievement_timestamp():
     """

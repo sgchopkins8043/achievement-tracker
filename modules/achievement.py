@@ -7,9 +7,12 @@ class Achievement:
     """
     This is an achievement class
     """
-    def __init__(self):
-        self.timestamp = dt.now()
-
+    def __init__(self, category: str, team: str, achievement: str, context: str):
+        self.timestamp = dt.now().strftime('%Y-%m-%d %H:%M:%S')
+        self.category = category
+        self.team = team
+        self.achievement = achievement
+        self.context = context
 
     def category(self):
         """
