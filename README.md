@@ -10,3 +10,5 @@ sgchopkins8043@gmail.com
 ### About:
 This package provides a simple CLI based achievement tracker that records basic information
 for subsequent reporting based on a chosen time period.
+v1.0
+
