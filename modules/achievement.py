@@ -14,14 +14,15 @@ class Achievement:
         self.achievement = achievement
         self.context = context
 
-    def category(self):
+    def flag(self):
         """
-        This method takes an achievement object and returns the category attribute of the object
-        :return: Category
+        dummy method
+        :return:
         """
 
-    def team(self):
+
+    def devops(self):
         """
-        This method takes an achievement object and returns the team attribute of the object
-        :return: Team
+        dummy method
+        :return:
         """

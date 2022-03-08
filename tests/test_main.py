@@ -10,5 +10,5 @@ def test_achievement_timestamp():
     Basic test for
     :return: pass
     """
-    rep1 = Achievement()
-    assert isinstance(rep1.timestamp, dt)
+    rep1 = Achievement('category', 'team', 'achievement', 'context')
+    assert isinstance(rep1.timestamp, str)
