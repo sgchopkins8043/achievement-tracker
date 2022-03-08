@@ -1,7 +1,6 @@
 """
 pytests for main app
 """
-from datetime import datetime as dt
 from modules import Achievement
 
 
