@@ -31,6 +31,6 @@ jobs:
                     pip install -r requirements-dev.txt
             -   name: Lint with pylint
                 run: |
-                    pylint --rcfile=.pylintrc main.py
+                    pylint --rcfile=.pylintrc app.py
                     pylint --rcfile=.pylintrc --good-names="x, y" tests/
                     pylint --rcfile=.pylintrc --good-names="x, y" modules/
