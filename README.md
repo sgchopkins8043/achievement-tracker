@@ -1,6 +1,8 @@
 ![alt text](https://github.com/sgchopkins8043/achievement-tracker/blob/main/readme_header.png?raw=true)
 ## Achievement Tracker
 ***
+[![Unit-Testing, Linting](https://github.com/sgchopkins8043/achievement-tracker/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/sgchopkins8043/achievement-tracker/actions/workflows/python-app.yml)
+
 ### Created by: S G C Hopkins
 ***
 #### Contact Information:
